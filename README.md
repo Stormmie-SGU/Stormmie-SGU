@@ -74,13 +74,11 @@
 <!--   <a href="https://youtube.com/@trungquandev" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="" />
   </a> -->
-  <a href="www.linkedin.com/in/qvinh" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="" />
-  </a>
+  
   <a href="https://www.instagram.com/q.vinh_is_me/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="" />
   </a>
-  <a href="mailto:buivietquangvinh@gmail.com" target="top">
+  <a href="mailto:stormmie2006@gmail.com" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="" />
   </a>
 </div>
