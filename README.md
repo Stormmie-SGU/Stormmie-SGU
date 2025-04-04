@@ -55,7 +55,9 @@
   <a href="#" title="TanPhat-coder">
     <img width="315" align="center" src="https://github-readme-stats.vercel.app/api?username=TanPhat-coder&theme=radical&hide_border=false&include_all_commits=false&count_private=true" />
   </a>
-  
+  <a href="https://github.com/TanPhat-coder" title="TanPhat-coder">
+  <img style="float: right; width: 434px;" src="https://github-readme-streak-stats.herokuapp.com/?user=TanPhat-coder&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
+</a>
 </div>
 
 <br>
