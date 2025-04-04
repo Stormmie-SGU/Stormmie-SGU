@@ -68,7 +68,7 @@
 <!--   <a href="https://trungquandev.com" target="blank">
     <img width="90" height="90" src="images/logo-trungquandev-transparent-bg-192x192.png" alt="trungquandev-blog" />
   </a> -->
-  <a href="" target="blank">
+  <a href="https://www.facebook.com/share/1AJPRDHuD1/?mibextid=wwXIfr" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="" />
   </a>
 <!--   <a href="https://youtube.com/@trungquandev" target="blank">
