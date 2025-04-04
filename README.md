@@ -55,8 +55,9 @@
   <a href="#" title="TanPhat-coder">
     <img width="315" align="center" src="https://github-readme-stats.vercel.app/api?username=TanPhat-coder&theme=radical&hide_border=false&include_all_commits=false&count_private=true" />
   </a>
-  
-  ![]((https://github-readme-streak-stats.herokuapp.com/?user=TanPhat-coder&theme=radical&hide_border=true))<br/>
+  <a href="#" title="TanPhat-coder">
+<img align="right" width="434" top="1000" src="(https://github-readme-streak-stats.herokuapp.com/?user=TanPhat-coder&theme=radical&hide_border=false)" />
+</a>
 </div>
 
 <br>
