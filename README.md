@@ -75,7 +75,7 @@
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="" />
   </a> -->
   
-  <a href="https://www.instagram.com/q.vinh_is_me/" target="blank">
+  <a href="https://www.instagram.com/tphatsss?igsh=MWU2MW51ZjZ0M2tp&utm_source=qr" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="" />
   </a>
   <a href="mailto:stormmie2006@gmail.com" target="top">
