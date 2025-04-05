@@ -81,9 +81,9 @@
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="" />
   </a>
 
-  <a href="https://www.linkedin.com/in/phát-nguyễn-3408b735a/" target="blank">
-    <img src="https://icons8.com/icon/108812/linkedin" alt="" />
-  </a>
+ <a href="https://www.linkedin.com/in/phát-nguyễn-3408b735a/" target="blank">
+    <img src="images/linkedin.png" alt="LinkedIn" />
+</a>
   
   <a href="mailto:stormmie2006@gmail.com" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="" />
