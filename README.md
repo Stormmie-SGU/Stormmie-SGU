@@ -82,7 +82,7 @@
   </a>
 
  <a href="https://www.linkedin.com/in/phát-nguyễn-3408b735a/" target="blank">
-    <img src="https://icons8.com/icon/108812/linkedin" alt="LinkedIn" />
+    <img src="https://icons8.com/icon/108812/linkedin" alt="" />
 </a>
   
   <a href="mailto:stormmie2006@gmail.com" target="top">
