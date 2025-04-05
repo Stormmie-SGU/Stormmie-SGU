@@ -50,6 +50,7 @@
 
 <br>
 <br>
+<h2 align="center"></h2>
 <h2 align="center">🔥   📊GitHub Stats   🔥</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
@@ -63,6 +64,7 @@
 </div>
 
 <br>
+<h2 align="center"></h2>
 <h2 align="center">🌐Socials</h2>
 
 <br>
