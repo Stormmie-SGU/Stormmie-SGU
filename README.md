@@ -68,28 +68,20 @@
 <h2 align="center">🌐Socials</h2>
 
 <br>
-<!-- https://icons8.com -->
 <div align="center">
-
-  
-  <a href="https://www.facebook.com/share/1AJPRDHuD1/?mibextid=wwXIfr" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="" />
-  </a>
-
-  
-  <a href="https://www.instagram.com/tphatsss?igsh=MWU2MW51ZjZ0M2tp&utm_source=qr" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="" />
-  </a>
-
- <a href="https://www.linkedin.com/in/phát-nguyễn-3408b735a/" target="blank">
-    <img src="https://icons8.com/icon/108812/linkedin" alt="" />
-</a>
-  
-  <a href="mailto:stormmie2006@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="" />
-  </a>
+    <a href="https://www.facebook.com/share/1AJPRDHuD1/?mibextid=wwXIfr" target="blank">
+        <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="" />
+    </a>
+    <a href="https://www.instagram.com/tphatsss?igsh=MWU2MW51ZjZ0M2tp&utm_source=qr" target="blank">
+        <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="" />
+    </a>
+    <a href="https://www.linkedin.com/in/phát-nguyễn-3408b735a/" target="blank">
+        <img src="https://img.icons8.com/color/100/000000/linkedin.png" alt="LinkedIn" />
+    </a>
+    <p style="text-align: center; font-size: small; margin-top: 5px;">
+        <a target="_blank" href="https://icons8.com/icon/108812/linkedin">LinkedIn</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+    </p>
+    <a href="mailto:stormmie2006@gmail.com" target="top">
+        <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="" />
+    </a>
 </div>
-
-
-
-</a>
