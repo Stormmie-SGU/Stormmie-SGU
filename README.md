@@ -78,9 +78,7 @@
     <a href="https://www.linkedin.com/in/phát-nguyễn-3408b735a/" target="blank">
         <img src="https://img.icons8.com/color/100/000000/linkedin.png" alt="LinkedIn" />
     </a>
-    <p style="text-align: center; font-size: small; margin-top: 5px;">
-        <a target="_blank" href="https://icons8.com/icon/108812/linkedin">LinkedIn</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
-    </p>
+    
     <a href="mailto:stormmie2006@gmail.com" target="top">
         <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="" />
     </a>
