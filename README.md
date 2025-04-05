@@ -70,19 +70,21 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-<!--   <a href="https://trungquandev.com" target="blank">
-    <img width="90" height="90" src="images/logo-trungquandev-transparent-bg-192x192.png" alt="trungquandev-blog" />
-  </a> -->
+
+  
   <a href="https://www.facebook.com/share/1AJPRDHuD1/?mibextid=wwXIfr" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="" />
   </a>
-<!--   <a href="https://youtube.com/@trungquandev" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="" />
-  </a> -->
+
   
   <a href="https://www.instagram.com/tphatsss?igsh=MWU2MW51ZjZ0M2tp&utm_source=qr" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="" />
   </a>
+
+  <a href="https://www.linkedin.com/in/phát-nguyễn-3408b735a/" target="top">
+    <img src="https://icons8.com/icon/108812/linkedin" alt="" />
+  </a>
+  
   <a href="mailto:stormmie2006@gmail.com" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="" />
   </a>
